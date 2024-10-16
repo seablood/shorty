@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.cyj.shorty.application.ShortenUrlControllerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-10-16T02:50:03" hostname="choeyeongjun-ui-MacBookPro.local" time="0.062">
+  <properties/>
+  <testcase name="단축 URL 페이지 리다이렉트 테스트" classname="com.cyj.shorty.application.ShortenUrlControllerTest" time="0.062"/>
+  <system-out><![CDATA[11:50:02.330 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.cyj.shorty.application.ShortenUrlControllerTest]: ShortenUrlControllerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+11:50:02.391 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.cyj.shorty.ShortyApplication for test class com.cyj.shorty.application.ShortenUrlControllerTest
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v3.3.4)
+
+2024-10-16T11:50:02.598+09:00  INFO 6924 --- [    Test worker] c.c.s.a.ShortenUrlControllerTest         : Starting ShortenUrlControllerTest using Java 17.0.7 with PID 6924 (started by dudwnszero in /Users/dudwnszero/eclipse-workspace/shorty)
+2024-10-16T11:50:02.599+09:00  INFO 6924 --- [    Test worker] c.c.s.a.ShortenUrlControllerTest         : The following 2 profiles are active: "db", "test"
+2024-10-16T11:50:03.613+09:00  INFO 6924 --- [    Test worker] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2024-10-16T11:50:03.613+09:00  INFO 6924 --- [    Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2024-10-16T11:50:03.614+09:00  INFO 6924 --- [    Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2024-10-16T11:50:03.634+09:00  INFO 6924 --- [    Test worker] c.c.s.a.ShortenUrlControllerTest         : Started ShortenUrlControllerTest in 1.205 seconds (process running for 1.692)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
